@@ -2,8 +2,3 @@ a
 b
 s
 d
-f
-g
-h
-e
-v
